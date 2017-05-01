@@ -1,3 +1,4 @@
+# Author = Alexandros Ioannidis
 # Read data from RFM, RFMTC-Our, RFMTC-Ref data files
 rfmData <- read.csv(file.choose(), header = TRUE)
 ourrfmtcData <- read.csv(file.choose(), header = TRUE)
